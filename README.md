@@ -1,5 +1,6 @@
 # Python_Solar_and_Lunar
-![](https://img.shields.io/badge/pytnon-3.7-blue.svg)
+![Python](https://img.shields.io/badge/python-3.7-blue.svg)
+
 Calculate Vietnam lunar calendar (some different with Chinese lunar calendar)
 
 Base on Algorithm: \Algorithm\How to compute the Vietnamese lunar calendar.pdf
